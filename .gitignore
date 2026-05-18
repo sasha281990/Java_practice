@@ -1,6 +1,6 @@
 ### IntelliJ IDEA ###
 out/
-out/production/Java_practice/by
+out/production/Java_practice/by/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
